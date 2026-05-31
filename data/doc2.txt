@@ -1,0 +1,1 @@
+Deep learning is a specialized branch of machine learning. Deep neural networks learn hierarchical representations of data. Deep learning has revolutionized computer vision and natural language processing. Many modern AI applications use deep learning architectures.

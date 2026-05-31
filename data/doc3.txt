@@ -1,0 +1,1 @@
+Natural language processing helps computers understand human language. NLP combines computational linguistics with machine learning. Text analysis and sentiment analysis are common NLP tasks. Language models have greatly improved natural language understanding.

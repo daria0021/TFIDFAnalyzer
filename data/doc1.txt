@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence. Machine learning algorithms build models based on training data. Learning from data is the core concept of machine learning. The more data we have, the better our machine learning models become.
